@@ -1,0 +1,6 @@
+	start_index	end_index	x_top_left	y_top_left	x_bottom_right	y_bottom_right	transcript	field
+0	5	7	895	185	993	242	W-2	OTHER
+1	9	11	997	170	1087	227	and	OTHER
+2	13	20	1094	127	1348	212	EARNINGS	OTHER
+3	22	28	1358	85	1601	170	SUMMARY	OTHER
+4	55	55	1397	707	1476	809	E	OTHER
